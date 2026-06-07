@@ -1,0 +1,5 @@
+Çalışma,Accuracy,k,Not
+"Bu Proje (KNN, 2C)",0.8226,1,StandardScaler + 10-fold CV
+"Bu Proje (KNN, 3C)",0.7903,9,StandardScaler + 10-fold CV
+Akram et al. (literatür)*,0.85+,—,"KNN baseline, 2C"
+Karabulut & İbrikçi*,0.86–0.89,—,"Rotation Forest, 2C"
