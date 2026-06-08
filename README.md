@@ -50,7 +50,7 @@ jupyter notebook BLM463_Proje_KNN.ipynb
 8. Literatür karşılaştırması
 
 ## Sonuç Videosu
-[YouTube linki buraya eklenecek]
+https://www.youtube.com/watch?v=98j7-PHeCaM
 
 ## Lisans
 Akademik proje. Veri seti UCI Machine Learning Repository'den alınmıştır.
